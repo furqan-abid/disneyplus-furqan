@@ -8,7 +8,7 @@ function Detail(props) {
         window.scrollTo(0,0)
     }, [])
     return (
-
+//this is detail component
         <Container>
             {
                 props.movies.map((movie)=>{
