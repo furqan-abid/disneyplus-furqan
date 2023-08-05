@@ -10,7 +10,7 @@ function Login() {
                     GET ALL THERE
                 </Signup>
                 <Description>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi veritatis, pariatur sed suscipit non repellat nam exercitationem delectus ipsa
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eum soluta eius illum qui debitis! Quia, est repudiandae? Cum, excepturi dolor.
                 </Description>
                 <CTAlogoTwo src="/images/cta-logo-two.png" />
             </CTA>
